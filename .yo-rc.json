@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daehee Park",
+      "authorEmail": "hello@daehee.com",
+      "authorUrl": "https://github.com/daehee"
+    }
+  }
+}
