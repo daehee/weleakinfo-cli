@@ -25,7 +25,7 @@ WELEAKINFO_PRIVATE=XXX
 Launch the interactive CLI:
 
 ```sh
-node lib/index.js
+weleakinfo
 ```
 
 ## License

@@ -1,6 +1,6 @@
 {
   "name": "weleakinfo-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI interface for WeLeakInfo API",
   "author": {
     "name": "Daehee Park",
@@ -10,6 +10,9 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "weleakinfo": "lib/index.js"
+  },
   "main": "lib/index.js",
   "keywords": [
     "We Leak Info",
@@ -61,7 +64,7 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "https://github.com/daehee/weleakinfo-cli",
+  "repository": "daehee/weleakinfo-cli",
   "jest": {
     "testEnvironment": "node"
   },
