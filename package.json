@@ -1,6 +1,6 @@
 {
   "name": "weleakinfo-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI interface for WeLeakInfo API",
   "author": {
     "name": "Daehee Park",

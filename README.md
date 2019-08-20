@@ -6,8 +6,7 @@
 Clone this repository and install npm dependencies:
 
 ```sh
-git clone https://github.com/daehee/weleakinfo-cli.git
-npm install
+npm i weleakinfo-cli
 ```
 
 Go to WeLeakInfo.com and [register for an account](https://weleakinfo.com/register).
